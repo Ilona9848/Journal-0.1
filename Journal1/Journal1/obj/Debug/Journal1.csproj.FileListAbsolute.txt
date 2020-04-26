@@ -1,0 +1,16 @@
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\bin\Debug\Journal1.exe.config
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\bin\Debug\Journal1.exe
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\bin\Debug\Journal1.pdb
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.csprojAssemblyReference.cache
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.Properties.Resources.resources
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.csproj.GenerateResource.cache
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.csproj.CoreCompileInputs.cache
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.exe
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.pdb
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.AddFaculty.resources
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.JournalMain.resources
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.AddGroupWithoutStudents.resources
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.AddSubject.resources
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.AddStudent.resources
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.AddSchedule.resources
+C:\Users\Илона\OneDrive\Рабочий стол\программы\Journal1\Journal1\obj\Debug\Journal1.Mark.resources
